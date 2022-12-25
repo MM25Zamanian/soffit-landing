@@ -23,9 +23,9 @@
     "types:check:tsc": "tsc --noEmit"
   },
   "dependencies": {
-    "@vaadin/router": "^1.7.4",
+    "@alwatr/icon": "^0.25.0",
+    "@material/web": "^0.1.0-alpha.0",
     "lit": "^2.5.0",
-    "pwa-helper-components": "~0.2.10",
     "tslib": "^2.4.1"
   },
   "devDependencies": {
